@@ -1,4 +1,4 @@
-function(myproject_check_libfuzzer_support var_name)
+function(ad_astra_check_libfuzzer_support var_name)
   set(LibFuzzerTestSource
       "
 #include <cstdint>
